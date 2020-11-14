@@ -3,8 +3,6 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  flex-wrap: wrap;
   margin: 0 auto;
-  padding: 100px 0 316px 0;
-  position: relative;
+  padding: 100px 0 0 0; 
 }
